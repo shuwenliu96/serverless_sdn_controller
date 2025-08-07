@@ -10,7 +10,7 @@ This repository accompanies the paper:
 
 # Overview
 
-This work explores a new design paradigm for Software-Defined Networking (SDN) controllers by leveraging **Function-as-a-Service (FaaS)** platforms, such as serverless cloud or edge computing frameworks. We term this model **Functional Control**, in which traditional monolithic or distributed SDN controllers are refactored into a collection of stateless, event-driven functions.
+This work explores a new design paradigm for Software-Defined Networking (SDN) controllers by leveraging Function-as-a-Service (FaaS) platforms, such as serverless cloud or edge computing frameworks. We term this model **Functional Control**, in which traditional monolithic or distributed SDN controllers are refactored into a collection of stateless, event-driven functions.
 
 These functions are deployed as independent, on-demand computation units that react to network events—such as topology changes, flow requests, or link failures—without relying on a continuously running control plane. We have deployed this controller on Fastly Compute@Edge and AWS Lambda.
 
