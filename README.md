@@ -49,7 +49,7 @@ If you use this work, please cite:
 @inproceedings{liu2025functional,
   author    = {Shuwen Liu and Craig Shue},
   title     = {Functional Control: Leveraging Function-as-a-Service Platforms for Software-Defined Networking Controllers},
-  booktitle = {Proceedings of the 26th ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc)},
+  booktitle = {Proceedings of the 26th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc)},
   year      = {2025}
 }
 ```
