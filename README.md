@@ -1,4 +1,4 @@
-# serverless_sdn_controller
+# A Serverless SDN Controller
 
 This repository accompanies the paper:
 
@@ -8,7 +8,7 @@ This repository accompanies the paper:
 
 ---
 
-# Overview
+## Overview
 
 This work explores a new design paradigm for Software-Defined Networking (SDN) controllers by leveraging Function-as-a-Service (FaaS) platforms, such as serverless cloud or edge computing frameworks. We term this model **Functional Control**, in which traditional monolithic or distributed SDN controllers are refactored into a collection of stateless, event-driven functions.
 
